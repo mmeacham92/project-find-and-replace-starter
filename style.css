@@ -65,3 +65,13 @@ button {
 .row .cell:hover {
     background: lightsteelblue;
 }
+
+.red {
+    margin-top: 3px;
+    color: red;
+}
+
+.green {
+    margin-top: 3px;
+    color: green;
+}
